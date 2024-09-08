@@ -6,6 +6,9 @@
 \usage{
 select_lang(lang)
 }
+\arguments{
+\item{lang}{translation model to use like "Helsinki-NLP/opus-mt-en-es"}
+}
 \description{
 for example "Helsinki-NLP/opus-mt-en-es"
 }
